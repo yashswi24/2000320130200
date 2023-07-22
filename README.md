@@ -1,7 +1,7 @@
 # 2000320130200
 # Railway Management System
 
-![Railway Management System](https://pasteboard.co/KaOPfH10m149.jpg)
+![Railway Management System](https://ibb.co/BVvHGb6)
 
 The Railway Management System is a comprehensive web application designed to facilitate the efficient management and operation of railway systems. This system provides a user-friendly interface for railway administrators, staff, and passengers to streamline various aspects of railway operations.
 
